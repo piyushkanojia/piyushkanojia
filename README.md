@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushkanojia
 - 👀 I’m interested in prosractinating 
-- 🌱 I’m currently doing BE
+- 🌱 I’m currently working as a Data Engineer
 - 💞️ I’m looking to collaborate on projects of python
 - 📫 How to reach me email : piyushkanojia2910@gmail.com
 
